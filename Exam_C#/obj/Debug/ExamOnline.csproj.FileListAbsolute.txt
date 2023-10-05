@@ -1,0 +1,16 @@
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\bin\Debug\ExamOnline.exe.config
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\bin\Debug\ExamOnline.exe
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\bin\Debug\ExamOnline.pdb
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.csproj.AssemblyReference.cache
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.Properties.Resources.resources
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.csproj.GenerateResource.cache
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.csproj.CoreCompileInputs.cache
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.exe
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.pdb
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.Teacher.resources
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.Register.resources
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.Student.resources
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.ExamStar.resources
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\bin\Debug\ExamOnline.mdf
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\bin\Debug\ExamOnline_log.ldf
+C:\Users\29180\Desktop\2021.10C#大作业\ExamOnline\obj\Debug\ExamOnline.Form1.resources
